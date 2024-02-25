@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import "./CSS/LoginSignUp.css";
 
 const LoginSignUp = () => {
@@ -22,6 +22,6 @@ const LoginSignUp = () => {
       </div>
     </div>
   );
-}
+};
 
 export default LoginSignUp;
