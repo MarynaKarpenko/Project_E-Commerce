@@ -10,8 +10,9 @@ const LoginSignUp = () => {
           <input type="text" placeholder="Your Name" />
           <input type="email" placeholder="Email Address" />
           <input type="password" placeholder="Password" />
+          <button>Continue</button>
         </div>
-        <button>Continue</button>
+
         <p className="login-sign-up-login">
           Already have an account? <span>Login here</span>
         </p>

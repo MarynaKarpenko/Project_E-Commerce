@@ -1,10 +1,9 @@
-import React from 'react';
+import React from "react";
 import "./Breadcrumb.css";
-import arrow_icon from '../Assets/breadcrumb_arrow.png'
+import arrow_icon from "../Assets/breadcrumb_arrow.png";
 
 const Breadcrumb = (props) => {
-
-  const {product} = props;
+  const { product } = props;
 
   return (
     <div className="breadcrumb">
@@ -14,6 +13,6 @@ const Breadcrumb = (props) => {
       {product.name}
     </div>
   );
-}
+};
 
-export default Breadcrumb
+export default Breadcrumb;

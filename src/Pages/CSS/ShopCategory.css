@@ -28,6 +28,10 @@
     row-gap: 80px;
 }
 
+.shop-category-products .item {
+    margin: 20px;
+}
+
 .shop-category-load-more {
     display: flex;
     justify-content: center;
