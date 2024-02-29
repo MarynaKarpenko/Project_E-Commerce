@@ -58,6 +58,10 @@
     justify-content: center;
 }
 
+.hero-right img {
+    width: 500px;
+}
+
 @media(max-width:1280px) {
     .hero-left {
         padding-left: 100px;
@@ -81,10 +85,6 @@
         height: 60px;
         margin-top: 20px;
         font-size: 18px;
-    }
-
-    .hero-right img {
-        width: 500px;
     }
 }
 
